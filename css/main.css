@@ -70,7 +70,7 @@ section { display: flex; }
 }
 
 .nav-list {
-    padding: 0;
+    padding-left: 0;
     width: 575px;
     margin-top: 10px;
 }
@@ -87,7 +87,7 @@ section { display: flex; }
 }
 
 .account {
-    margin-right: auto;
+    text-align: right;
     padding: 15px;
     color: #364147;
     font-size: 18px;
