@@ -38,3 +38,65 @@ section { display: flex; }
 .text-light { font-size: 30px; color: #A0A0A0; }
 .text-secondary { font-size: 30px; color: #faa541; }
 .text-primary { font-size: 16px; color: #364147; }
+
+.header-nav { border-bottom: 1px #A0A0A0; }
+
+.brand {
+    height: 170px;
+    width: 85px;
+    margin-left: -15px;
+    margin-right: 60px; 
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+
+.search-box {
+    width: 330px;
+    height: 30px;
+    padding: 6px 12px;
+    border: 1px #a0a0a0;
+}
+
+.search-button {
+    background-color: #a0a0a0;
+    color: #ffffff;
+    width: 100px;
+    height: 30px;
+    border: 0;
+    padding: 0;
+}
+
+.nav-list li, .nav-list a {
+        font-size: 16px;
+        text-transform: uppercase;
+        font-weight: 700;
+        letter-spacing: 0.2px;
+}
+
+.profile {
+    margin-left: auto;
+}
+
+.account {
+    margin-right: auto;
+    padding: 15px;
+    color: #364147;
+    font-size: 18px;
+}
+
+.account a {
+    font-size: 14px;
+}
+
+.profile-pic {
+    width: 60px;
+    height: 60px;
+}
+
+.profile-pic img {
+    border-radius: 100px;
+    max-width: 100%;
+}
