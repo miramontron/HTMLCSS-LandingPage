@@ -111,7 +111,7 @@ section { display: flex; }
     background-image: url("../img/hero.jpg");
     height: 400px;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     text-transform: uppercase;
 }
 
